@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Fix a Toilet'
 description: 'Easy Tiolet Repair'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "../assets/images/booth-labs-icon-50.gif"
 
 # Pagination
 paginate: 5
