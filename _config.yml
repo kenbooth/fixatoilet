@@ -9,7 +9,7 @@ collections:
     feature_text: 'Welcome to my blog
 
 '
-    feature_image: https://picsum.photos/2560/600?image=866
+    feature_image: "../assets/images/toilet-bowl-water.jpg"
   uploads:
     title: Uploads
     output: true
