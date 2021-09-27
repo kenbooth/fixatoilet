@@ -9,7 +9,7 @@ collections:
     feature_text: 'Welcome to my blog
 
 '
-    feature_image: "../assets/images/toilet-bowl-water.jpg"
+    feature_image: "//assets/images/toilet-bowl-water.jpg"
   uploads:
     title: Uploads
     output: true
@@ -44,7 +44,7 @@ url: https://mydomain.com
 baseurl: ''
 description: Easy Tiolet Repair
 permalink: pretty
-logo: "../assets/images/booth-labs-icon-50.gif"
+logo: "//assets/images/booth-labs-icon-50.gif"
 paginate: 5
 paginate_path: blog/page:num
 navigation_header:
