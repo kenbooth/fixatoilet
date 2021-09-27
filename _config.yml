@@ -50,7 +50,6 @@ logo: "/assets/images/booth-labs-icon-50.gif"
 # Pagination
 =======
 logo: /assets/images/booth-labs-icon-50.gif
->>>>>>> 5d60f65cbe396d8aab32f2b98a4e28620bba46ae
 paginate: 5
 paginate_path: blog/page:num
 navigation_header:
