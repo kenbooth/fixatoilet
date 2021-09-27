@@ -1,14 +1,35 @@
-# Set theme
-theme: alembic-jekyll-theme
+---
+title: Fix a Toilet
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: My thoughts and ideas
+    feature_text: 'Welcome to my blog
 
-# File excludes
+'
+    feature_image: https://picsum.photos/2560/600?image=866
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+theme: alembic-jekyll-theme
 exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
 - netlify.toml
-
-# Set plugins
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -19,54 +40,20 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-
-# Site settings
-url: 'https://mydomain.com'
+url: https://mydomain.com
 baseurl: ''
-title: 'Fix a Toilet'
-description: 'Easy Tiolet Repair'
+description: Easy Tiolet Repair
 permalink: pretty
 logo: "../assets/images/booth-labs-icon-50.gif"
-
-# Pagination
 paginate: 5
 paginate_path: blog/page:num
-
-# Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: "/"
 - title: About
-  url: /about/
+  url: "/about/"
 - title: Blog
-  url: /blog/
-
-# Footer nav
+  url: "/blog/"
 navigation_footer:
 - title: Back to top
   url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
-
-# Collection settings
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
