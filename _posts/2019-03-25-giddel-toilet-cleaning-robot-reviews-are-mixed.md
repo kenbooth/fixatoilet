@@ -1,8 +1,8 @@
 ---
-title: "Giddel toilet cleaning robot: Reviews are mixed"
-date: "2019-03-25"
-categories: 
-  - "general"
+title: 'Giddel toilet cleaning robot: Reviews are mixed'
+date: 2019-03-25 00:00:00 Z
+categories:
+- general
 ---
 
 ![The Giddel toilet cleaning robot.](images/giddel-robot-300x169.jpg)

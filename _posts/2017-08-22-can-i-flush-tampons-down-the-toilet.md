@@ -1,9 +1,9 @@
 ---
-title: "Can I flush tampons down the toilet?"
-date: "2017-08-22"
-categories: 
-  - "general"
-coverImage: "IMG_4711.jpg"
+title: Can I flush tampons down the toilet?
+date: 2017-08-22 00:00:00 Z
+categories:
+- general
+coverImage: IMG_4711.jpg
 ---
 
 If you've heard some people tell you it's OK to flush tampons while others warn against the practice you may be confused about conflicting instructions and wondering, "**Can I flush tampons down the toilet?**" Despite what some  may tell you, you should **never** flush tampons down the toilet.

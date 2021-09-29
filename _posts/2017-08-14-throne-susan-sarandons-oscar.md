@@ -1,9 +1,9 @@
 ---
-title: "A throne for Susan Sarandon's Oscar"
-date: "2017-08-14"
-categories: 
-  - "general"
-coverImage: "Screen-Shot-2017-08-14-at-1.22.05-PM.png"
+title: A throne for Susan Sarandon's Oscar
+date: 2017-08-14 00:00:00 Z
+categories:
+- general
+coverImage: Screen-Shot-2017-08-14-at-1.22.05-PM.png
 ---
 
 From the celebrity toilet file we find that the bathroom is a popular location for celebrities to display their **Oscar statuettes**. **Susan Sarandon** is probably most famous for keeping her Oscar in the bathroom. She has even Tweeted confirmation and a photo of her Oscar for _Dead Man Walking_ on [display in her bathroom](https://twitter.com/SusanSarandon/status/848720799007690752).

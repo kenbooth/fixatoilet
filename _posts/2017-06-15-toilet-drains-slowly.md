@@ -1,9 +1,9 @@
 ---
-title: "Toilet drains slowly due to clogged bowl"
-date: "2017-06-15"
-categories: 
-  - "toilet-repairs"
-coverImage: "bowl-drains-slowly.jpg"
+title: Toilet drains slowly due to clogged bowl
+date: 2017-06-15 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: bowl-drains-slowly.jpg
 ---
 
 If your **toilet drains slowly** due to a clogged bowl there are some easy steps you can take to fix the problem. Usually a plunger or auger will fix the problem, but you could also have another problem unrelated to the toilet bowl. We can help you resolve all of the issues related to a slow draining toilet.

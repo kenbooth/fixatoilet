@@ -1,8 +1,8 @@
 ---
-title: "Jet-powered potty"
-date: "2007-08-08"
-categories: 
-  - "general"
+title: Jet-powered potty
+date: 2007-08-08 00:00:00 Z
+categories:
+- general
 ---
 
 Former pit mechanic Paul Stender rolled up his sleeves and turned out a [jet-powered port-a-potty](http://www.popsci.com/popsci/how20/1ae60e0796b84010vgnvcm1000004eecbccdrcrd.html). It can't actually be used as a toilet, but it will get you down the highway pretty quickly.

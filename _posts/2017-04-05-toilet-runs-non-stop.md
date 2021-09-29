@@ -1,9 +1,9 @@
 ---
-title: "Toilet runs non-stop or runs randomly then stops"
-date: "2017-04-05"
-categories: 
-  - "toilet-repairs"
-coverImage: "fixatoilet-toilet-tank.jpg"
+title: Toilet runs non-stop or runs randomly then stops
+date: 2017-04-05 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: fixatoilet-toilet-tank.jpg
 ---
 
 If your toilet runs non-stop or if your toilet runs for a second and then stops a few easy adjustments should do the trick to fix this annoying problem. Most likely the tank water level is too high when a toilet runs non-stop, but you may also have a loose flush handle. We have detailed instructions below on fixing both problems.

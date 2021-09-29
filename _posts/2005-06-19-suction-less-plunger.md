@@ -1,8 +1,8 @@
 ---
-title: "Suction-less plunger"
-date: "2005-06-19"
-categories: 
-  - "general"
+title: Suction-less plunger
+date: 2005-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 _April 2017 Update: The New Plunge seems to be discontinued and is no longer mentioned on the S&K Manufacturing website._

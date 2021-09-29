@@ -1,9 +1,9 @@
 ---
-title: "Loose toilet seat repair or replacement"
-date: "2017-04-18"
-categories: 
-  - "toilet-repairs"
-coverImage: "IMG_3554.jpg"
+title: Loose toilet seat repair or replacement
+date: 2017-04-18 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: IMG_3554.jpg
 ---
 
 If you have a **loose toilet seat** it can usually be repaired by tightening the seat bolts. If the toilet seat is cracked, however, you will need to replace the entire seat. It's an easy job and we'll show you how to take care of both jobs.

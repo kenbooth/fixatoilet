@@ -1,8 +1,8 @@
 ---
-title: "Toilets with power"
-date: "2005-06-19"
-categories: 
-  - "general"
+title: Toilets with power
+date: 2005-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 If you're looking for a toilet that packs some power in every flush you need take a look at the [Maximum Performance](http://fixatoilet.boothinteractive.com/blog/2005/03/www.savingwater.org/docs/MapThirdEdition.pdf) (PDF) test results. According to the study, "for sanitary reasons as well as for customer satisfaction, toilets should flush a minimum of approximately 250 grams of solids."

@@ -1,9 +1,9 @@
 ---
-title: "Leaky toilet tank with water under tank"
-date: "2017-07-10"
-categories: 
-  - "toilet-repairs"
-coverImage: "IMG_4424.jpg"
+title: Leaky toilet tank with water under tank
+date: 2017-07-10 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: IMG_4424.jpg
 ---
 
 A common sign that you have a leaky toilet tank is water on the floor beneath the toilet. Follow these easy steps to diagnose and then fix your leaky toilet tank.

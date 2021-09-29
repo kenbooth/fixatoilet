@@ -1,8 +1,8 @@
 ---
-title: "Flushing with authority"
-date: "2005-06-09"
-categories: 
-  - "general"
+title: Flushing with authority
+date: 2005-06-09 00:00:00 Z
+categories:
+- general
 ---
 
 American Standard is after the Holy Grail of home plumbing: The plunger-less toilet. And they believe they've found it with the [Champion](http://www.americanstandard-us.com/planDesign/performance/BestFlush/best_flush.asp), which can flush 24 golf balls at a time. The New York Times [profiles the business](http://www.nytimes.com/2005/04/19/business/19place.html) and its efforts to improve the flushing capacity of its products.

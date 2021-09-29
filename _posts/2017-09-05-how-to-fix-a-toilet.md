@@ -1,8 +1,8 @@
 ---
-title: "How to fix a toilet"
-date: "2017-09-05"
-categories: 
-  - "toilet-repairs"
+title: How to fix a toilet
+date: 2017-09-05 00:00:00 Z
+categories:
+- toilet-repairs
 ---
 
 ![How to fix a toilet](images/toilet-bowl-water-300x200.jpg)The first step in determining **how to fix a toilet** is diagnosing the problem. Once you've done that you can read one of our how-to guides for toilet repair.

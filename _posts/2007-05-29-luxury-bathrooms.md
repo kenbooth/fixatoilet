@@ -1,8 +1,8 @@
 ---
-title: "Luxury bathrooms"
-date: "2007-05-29"
-categories: 
-  - "general"
+title: Luxury bathrooms
+date: 2007-05-29 00:00:00 Z
+categories:
+- general
 ---
 
 Luxury bathrooms not only consist of chandeliers and flat-screen TVs. [MSN reports](http://msnbc.msn.com/id/13936568/) on a trend in upscale decorating that will cost Americans about $22 billion this year.

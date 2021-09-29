@@ -1,8 +1,8 @@
 ---
-title: "Quick tips for unclogging your toilet"
-date: "2009-08-17"
-categories: 
-  - "general"
+title: Quick tips for unclogging your toilet
+date: 2009-08-17 00:00:00 Z
+categories:
+- general
 ---
 
 Nobody enjoys fighting with a problem toilet, especially when its a clogged one. There are a number of ways to effectively clear your toilets drain and I have mentioned one of those below:

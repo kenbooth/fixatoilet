@@ -1,9 +1,9 @@
 ---
-title: "How to use a plunger to unclog a toilet"
-date: "2017-07-14"
-categories: 
-  - "toilet-repairs"
-coverImage: "IMG_4444.jpg"
+title: How to use a plunger to unclog a toilet
+date: 2017-07-14 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: IMG_4444.jpg
 ---
 
 If you have a clogged toilet, it's important that you know **how to use a plunger** to easily and quickly correct the problem. If you follow our instructions, you'll have your clog clear in no time.

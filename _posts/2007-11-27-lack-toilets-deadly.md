@@ -1,8 +1,8 @@
 ---
-title: "Lack of toilets is deadly"
-date: "2007-11-27"
-categories: 
-  - "general"
+title: Lack of toilets is deadly
+date: 2007-11-27 00:00:00 Z
+categories:
+- general
 ---
 
 The World Toilet Association says the lack of proper toilet facilities [kills](http://www.canada.com/topics/bodyandhealth/story.html?id=4ef783f2-654a-4232-b2b8-40dd394dfa08&k=51097) almost two million people a year.

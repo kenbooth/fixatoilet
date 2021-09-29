@@ -1,8 +1,8 @@
 ---
-title: "Vote for the best restroom of 2007"
-date: "2007-06-25"
-categories: 
-  - "general"
+title: Vote for the best restroom of 2007
+date: 2007-06-25 00:00:00 Z
+categories:
+- general
 ---
 
 Cintas is presenting the [America's Best Restroom Award VI](http://www.bestrestrooms.com/index.html). The five finalists are Catch 31, Virginia Beach, VA; Fandangles', Flushing, MI; Jungle Jim's International Market, Fairfield, OH; Mix Lounge at Mandalay Bay, Las Vegas, NV and Vermont Marble Exhibit, Proctor, VT.

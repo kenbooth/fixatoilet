@@ -1,9 +1,9 @@
 ---
-title: "Clogged toilet: Easy fixes when your bowl overflows"
-date: "2017-04-04"
-categories: 
-  - "toilet-repairs"
-coverImage: "toilet-bowl-water.jpg"
+title: 'Clogged toilet: Easy fixes when your bowl overflows'
+date: 2017-04-04 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: toilet-bowl-water.jpg
 ---
 
 Clogged toilets are easy to fix. If your toilet bowl is overflowing you can repair your clogged toilet by following these easy steps. If you toilet appears to be clogged and is draining slowly you might also want to read our repair tips for [toilet bowls that drain slowly](http://fixatoilet.com/toilet-clogged-bowl-drains-slowly/).

@@ -1,8 +1,8 @@
 ---
-title: "Recent articles on bathroom design"
-date: "2005-06-19"
-categories: 
-  - "general"
+title: Recent articles on bathroom design
+date: 2005-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 The San Francisco Chronicle had five articles Wednesday on bathroom design:
