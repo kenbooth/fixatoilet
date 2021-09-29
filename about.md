@@ -1,7 +1,7 @@
 ---
-title: "About"
-date: "2017-03-30"
-coverImage: "sandwich.jpg"
+title: About
+date: 2017-03-30 00:00:00 Z
+coverImage: sandwich.jpg
 ---
 
 ### Our Objective
