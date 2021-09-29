@@ -16,7 +16,7 @@ We’ve updated our list of toilet manufacturers supplying the United States an
 
 [**Briggs**](http://briggsplumbing.com/) Offers a large variety of toilet designs for home and commercial use.
 
-\[caption id="attachment\_286" align="alignright" width="300"\]![Caroma toilet manufacturers](images/brisbane_1-300x281.jpg) Caroma Brisbane 270 Round Front Plus toilet.\[/caption\]
+\[caption id="attachment\_286" align="alignright" width="300"\]![Caroma toilet manufacturers](assets/images/brisbane_1-300x281.jpg) Caroma Brisbane 270 Round Front Plus toilet.\[/caption\]
 
 [**Caroma**](http://www.caromausa.com/) This Australian manufacturer offers a complete line of modern design toilets and plumbing fixtures.
 
@@ -28,7 +28,7 @@ We’ve updated our list of toilet manufacturers supplying the United States an
 
 [**Eljer**](http://www.eljer.com/) An American Standard brand of toilets.
 
-\[caption id="attachment\_285" align="alignright" width="270"\]![Herbeau toilet manufacturers](images/06090253-1-270x300.png) Herbeau "Charleston" toilet.\[/caption\]
+\[caption id="attachment\_285" align="alignright" width="270"\]![Herbeau toilet manufacturers](assets/images/06090253-1-270x300.png) Herbeau "Charleston" toilet.\[/caption\]
 
 [**Herbeau**](http://www.herbeau.com/) A French manufacturer of classic and period toilet designs. A good option for vintage-style bathrooms.
 
@@ -48,7 +48,7 @@ We’ve updated our list of toilet manufacturers supplying the United States an
 
 [**St. Thomas Creations**](http://www.stcbath.com/) A manufacturer of traditional toilet styles. Their Richmond ECO was Consumer Reports' "Best Overall" toilet pick in 2017.
 
-\[caption id="attachment\_284" align="alignright" width="300"\]![Toto toilet manufacturers](images/MS992CUMFG_01-300x300.jpg) Toto Neorest 750H Flush Toilet.\[/caption\]
+\[caption id="attachment\_284" align="alignright" width="300"\]![Toto toilet manufacturers](assets/images/MS992CUMFG_01-300x300.jpg) Toto Neorest 750H Flush Toilet.\[/caption\]
 
 [**Toto**](http://www.totousa.com/) A Japanese manufacturer of high-end and hi-tech toilet fixtures. Toto is well known for the lineup of specialty toilets and bidets.
 

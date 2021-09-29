@@ -10,7 +10,7 @@ The short answer to the question "can I flush paper towels" is "no." The long an
 
 ### Can I flush paper towels down the toilet?
 
-![Can I flush paper towels down the toilet?](images/IMG_4963-225x300.jpg)Because we now know you can't flush paper towels down the toilet, it's important to dispose of them in a safe manner. If you're using paper towels to clean your bathroom you can simply dispose of them in your trashcan. If you're concerned about hygiene after using a paper towel, you can first place it in a plastic shopping bag or into a trash can with a plastic bag liner.
+![Can I flush paper towels down the toilet?](assets/images/IMG_4963-225x300.jpg)Because we now know you can't flush paper towels down the toilet, it's important to dispose of them in a safe manner. If you're using paper towels to clean your bathroom you can simply dispose of them in your trashcan. If you're concerned about hygiene after using a paper towel, you can first place it in a plastic shopping bag or into a trash can with a plastic bag liner.
 
 ### How to clear a clogged toilet
 

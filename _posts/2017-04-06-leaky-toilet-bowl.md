@@ -16,7 +16,7 @@ Next, inspect your toilet bowl to determine if the water is leaking from beneath
 
 ##### Replace a Wax RING
 
-\[caption id="attachment\_191" align="alignright" width="245"\]![Wax ring to fix leaky toilet bowl.](images/prod_5582611027.jpg) A new wax ring to fix a leaky toilet bowl.\[/caption\]
+\[caption id="attachment\_191" align="alignright" width="245"\]![Wax ring to fix leaky toilet bowl.](assets/images/prod_5582611027.jpg) A new wax ring to fix a leaky toilet bowl.\[/caption\]
 
 If water is leaking from beneath the bowl the wax gasket has failed and should be replaced. This is also called a was ring or a wax seal. The gasket is simply a wax seal that fits between the sewer pipe and the toilet to keep liquids from escaping. Replacing a faulty gasket is a fairly involved procedure and many homeowners opt to have a plumber handle the repair. If you wish to proceed on your own you can follow these instructions:
 

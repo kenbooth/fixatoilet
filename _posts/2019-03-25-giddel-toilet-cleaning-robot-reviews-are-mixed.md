@@ -5,7 +5,7 @@ categories:
 - general
 ---
 
-![The Giddel toilet cleaning robot.](images/giddel-robot-300x169.jpg)
+![The Giddel toilet cleaning robot.](assets/images/giddel-robot-300x169.jpg)
 
 The Giddel toilet cleaning robot.
 

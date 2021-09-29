@@ -32,7 +32,7 @@ If you are still not able to clear the toilet you may need to remove the toilet 
 
 ##### Reposition the Float Ball
 
-\[caption id="attachment\_35" align="alignright" width="200"\]![Reposition float ball if toilet drains slowly](images/floatball.jpg) Reposition the float ball if it is too low and your toilet is not flushing completely and toilet drains slowly.\[/caption\]
+\[caption id="attachment\_35" align="alignright" width="200"\]![Reposition float ball if toilet drains slowly](assets/images/floatball.jpg) Reposition the float ball if it is too low and your toilet is not flushing completely and toilet drains slowly.\[/caption\]
 
 If the float ball is too low the toilet may not flush completely and you may need to adjust the float ball back up slightly to get more water in the tank. You can simply bend the float arm up slightly to keep the water about 1 inch below the top of the overflow pipe. Flush the toilet to a make sure it enough water is getting into the bowl.
 
@@ -40,7 +40,7 @@ If it also possible that the float ball is damaged or rubbing against the side o
 
 ##### Adjust the Water-Intake Assembly
 
-\[caption id="attachment\_36" align="alignright" width="200"\]![Water intake assembly adjustment if toilet drains slowly.](images/assembly.jpg) If your toilet has a water intake assembly, adjusting it may fix the problem if your toilet drains slowly.\[/caption\]
+\[caption id="attachment\_36" align="alignright" width="200"\]![Water intake assembly adjustment if toilet drains slowly.](assets/images/assembly.jpg) If your toilet has a water intake assembly, adjusting it may fix the problem if your toilet drains slowly.\[/caption\]
 
 Your toilet may have a water-intake assembly instead of a float ball. To adjust the water level in the bowl so it does not flow into the overflow pipe, pinch the clip attached to the thin metal rod and slide it and the cup down to lower the water level.
 

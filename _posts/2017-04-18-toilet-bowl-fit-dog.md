@@ -11,7 +11,7 @@ Both of these toilet bowl dog dishes are gravity fed and will refill the bowl a
 
 ### CSB Toilet Bowl Dog Dish
 
-\[caption id="attachment\_273" align="alignright" width="244"\]![Toilet bowl dog dish: CSB toilet dog bowl](images/71W9ub4avLL._SL1500_-244x300.jpg) CSB Toilet Dog Bowl and Cat Fountain.\[/caption\]
+\[caption id="attachment\_273" align="alignright" width="244"\]![Toilet bowl dog dish: CSB toilet dog bowl](assets/images/71W9ub4avLL._SL1500_-244x300.jpg) CSB Toilet Dog Bowl and Cat Fountain.\[/caption\]
 
 The [CSB Toilet Bowl Dog and Cat Fountain](http://amzn.to/2oJiQ25) is made of a high-gloss ceramic and holds a 2-liter bottle. It looks like a classic toilet design.
 
@@ -21,7 +21,7 @@ This toilet bowl dog dish is about 8" deep and about 14" to the top of the tank.
 
 ### BigMouth Inc Toilet Bowl Water Dish
 
-\[caption id="attachment\_274" align="alignright" width="234"\]![Toilet bowl dog dish: BigMouth Inc The Toilet Water Dish for Pets](images/71-c5p3zn7L._SL1500_-234x300.jpg) BigMouth Inc The Toilet Water Dish for Pets.\[/caption\]
+\[caption id="attachment\_274" align="alignright" width="234"\]![Toilet bowl dog dish: BigMouth Inc The Toilet Water Dish for Pets](assets/images/71-c5p3zn7L._SL1500_-234x300.jpg) BigMouth Inc The Toilet Water Dish for Pets.\[/caption\]
 
 The [BigMouth Inc The Toilet Water Dish for Pets](http://amzn.to/2pySRbW) is made of ceramic and holds any 2-liter bottle. It looks like a classic toilet design with a black toilet seat and lid.
 

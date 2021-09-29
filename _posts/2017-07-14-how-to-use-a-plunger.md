@@ -16,7 +16,7 @@ If you have a clogged toilet, it's important that you know **how to use a plunge
 
 ### What to use
 
-\[caption id="attachment\_219" align="alignright" width="80"\]![Korky 99-4A how to use a plunger](images/99-4A-Plunger-80x300.jpg) Korky 99-4A.\[/caption\]
+\[caption id="attachment\_219" align="alignright" width="80"\]![Korky 99-4A how to use a plunger](assets/images/99-4A-Plunger-80x300.jpg) Korky 99-4A.\[/caption\]
 
 If you're looking for the best tool for cleaning out a clogged toilet, read our post recommending the [**best toilet plunger of 2017**](http://fixatoilet.com/best-toilet-plunger-2017/).
 
@@ -24,7 +24,7 @@ We’ve done our research and examined the best selling and highest rates toilet
 
 ### What not to use
 
-![How to use a plunger: Plunger for sink and tub drains.](images/Saugglocke_fcm-157x300.jpg)A standard sink plunger, which has a flat base and no flange is designed to be placed against flat surfaces like a shower or sink drain.
+![How to use a plunger: Plunger for sink and tub drains.](assets/images/Saugglocke_fcm-157x300.jpg)A standard sink plunger, which has a flat base and no flange is designed to be placed against flat surfaces like a shower or sink drain.
 
 These plungers will not make a good seal in a toilet or generate enough force to dislodge a clog.
 

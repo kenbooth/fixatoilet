@@ -12,7 +12,7 @@ If your toilet runs non-stop or if your toilet runs for a second and then stops 
 
 ##### Reposition the float ball
 
-\[caption id="attachment\_180" align="alignright" width="300"\]![Adjust float ball ca fix toilet running non-stop](images/float-ball-300x226.jpg) Adjusting the position of the float ball can fix a toilet running non-stop.\[/caption\]
+\[caption id="attachment\_180" align="alignright" width="300"\]![Adjust float ball ca fix toilet running non-stop](assets/images/float-ball-300x226.jpg) Adjusting the position of the float ball can fix a toilet running non-stop.\[/caption\]
 
 If the float ball is positioned too high it will allow water to run into the overflow pipe. When this occur your toilet runs non-stop or runs randomly and then shuts off.
 
@@ -28,7 +28,7 @@ _Tip: If you're not sure if water is flowing into the overflow pipe, sprinkle ju
 
 ##### Adjust a water-intake assembly
 
-\[caption id="attachment\_36" align="alignright" width="200"\]![Water intake assembly fix when toilet runs non-stop.](images/assembly.jpg) Adjusting your water intake assembly can fix a toilet that runs non-stop.\[/caption\]
+\[caption id="attachment\_36" align="alignright" width="200"\]![Water intake assembly fix when toilet runs non-stop.](assets/images/assembly.jpg) Adjusting your water intake assembly can fix a toilet that runs non-stop.\[/caption\]
 
 Your toilet may have a water-intake assembly instead of a float ball. To adjust the water level in the bowl so it does not flow into the overflow pipe, pinch the clip attached to the thin metal rod and slide it and the cup down to lower the water level. Sliding the clip and cup up will raise the water level. Try moving the clip about an inch at a time.
 
@@ -44,7 +44,7 @@ If your tank assembly has a lift wire you can loosen the screw attached to the g
 
 ##### Ballcock is damaged
 
-\[caption id="attachment\_182" align="alignright" width="148"\]![A damaged ballcock causes toilet to run non-stop.](images/ballcock-148x300.jpg) A damaged ballcock will cause a toilet to run non-stop.\[/caption\]
+\[caption id="attachment\_182" align="alignright" width="148"\]![A damaged ballcock causes toilet to run non-stop.](assets/images/ballcock-148x300.jpg) A damaged ballcock will cause a toilet to run non-stop.\[/caption\]
 
 The ballcock opens and closes as the float ball falls and rises with the water level in the tank. This action controls the flow of water into the tank. With a plunger-style ball cock the float arm pushes the valve plunger and washer to stop the water flow. With a diaphragm ball cock the plunger pushes against a rubber diaphragm.
 
@@ -56,7 +56,7 @@ A damaged ballcock can sometimes mean your [toilet won't flush](http://fixatoile
 
 ##### Flapper or flush valve needs servicing
 
-\[caption id="attachment\_51" align="alignright" width="200"\]![Flapper valve fix when toilet runs non-stop.](images/flapper.jpg) A worn flapper valve can cause a toilet to run non-stop.\[/caption\]
+\[caption id="attachment\_51" align="alignright" width="200"\]![Flapper valve fix when toilet runs non-stop.](assets/images/flapper.jpg) A worn flapper valve can cause a toilet to run non-stop.\[/caption\]
 
 If the flapper valve does not sit firmly in place water will leak around the valve. This is a common reason a toilet runs non-stop or runs randomly and then stops.
 
@@ -70,7 +70,7 @@ To replace the flush-valve assembly first remove the old one by unscrewing the l
 
 ### Toilet runs non-stop when the handle is stuck
 
-\[caption id="attachment\_55" align="alignright" width="200"\]![Toilet handle](images/handle.jpg) A  loose handle can make a toilet run non-stop.\[/caption\]
+\[caption id="attachment\_55" align="alignright" width="200"\]![Toilet handle](assets/images/handle.jpg) A  loose handle can make a toilet run non-stop.\[/caption\]
 
 If the tank handle is loose it can be tightened by using an adjustable wrench to turn the locknut on the inside of the tank counterclockwise. A broken handle may also mean your [toilet won't flush](http://fixatoilet.com/toilet-wont-flush/).
 

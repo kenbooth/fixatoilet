@@ -12,7 +12,7 @@ First, inspect the tank to determine where the water is coming from. Water is ty
 
 ### Loose nuts causing leaky toilet tank
 
-\[caption id="attachment\_27" align="alignright" width="200"\]![Leaky toilet tank bolts](images/bolts.jpg) Tightening loose bolts under a leaky toilet tank may fix the problem.\[/caption\]
+\[caption id="attachment\_27" align="alignright" width="200"\]![Leaky toilet tank bolts](assets/images/bolts.jpg) Tightening loose bolts under a leaky toilet tank may fix the problem.\[/caption\]
 
 One source of a leaky toilet tank is loose nuts where the tank is attached to the bowl. To tighten the nuts in the tank use a flathead screwdriver to steady the bolt **inside the tank** while using an adjustable wrench to tighten the nut on the **underside of the tank**.
 
@@ -30,7 +30,7 @@ If there is a crack in the tank it will need to be replaced. Carefully check the
 
 ##### Reposition the float ball
 
-\[caption id="attachment\_35" align="alignright" width="200"\]![Leaky toilet tank from float ball](images/floatball.jpg) Reposition the float ball if it is too high and water is leaking out from around the toilet handle\[/caption\]
+\[caption id="attachment\_35" align="alignright" width="200"\]![Leaky toilet tank from float ball](assets/images/floatball.jpg) Reposition the float ball if it is too high and water is leaking out from around the toilet handle\[/caption\]
 
 If the float ball is too high it will allow water to run into the overflow pipe and out of the handle. You can bend the float arm down slightly to keep the water about 1 inch below the top of the overflow pipe. Flush the toilet to a make sure enough water is getting into the bowl. If the toilet does not flush completely you may need to adjust the float ball back up slightly to get more water in the tank.
 

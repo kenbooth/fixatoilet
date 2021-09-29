@@ -18,7 +18,7 @@ It's important that your plunger make a tight seal with the bottom of your toile
 
 ##### Korky 99-4A Max Performance Plunger
 
-\[caption id="attachment\_219" align="alignright" width="80"\]![Korky 99-4A best toilet plunger](images/99-4A-Plunger-80x300.jpg) Korky 99-4A.\[/caption\]
+\[caption id="attachment\_219" align="alignright" width="80"\]![Korky 99-4A best toilet plunger](assets/images/99-4A-Plunger-80x300.jpg) Korky 99-4A.\[/caption\]
 
 The Korky 99-4A works especially well with low-flow toilets and is our choice for **best toilet plunger** overall. The lower section is made of a soft rubber and forms to the shape of most any toilet, which is especially useful with the oblong shape of many low-flow toilets. But the Korky 99-4A works well with traditional toilets as well.
 
@@ -36,7 +36,7 @@ This Old House rated the Korky 99-4A as one of its Best New Home Products when i
 
 ##### OXO Good Grips Hideaway Toilet Plunger
 
-\[caption id="attachment\_229" align="alignright" width="103"\]![OXO Good Grips Plunger](images/OXO-good-grips-plunger-103x300.jpg) OXO Good Grips Plunger.\[/caption\]
+\[caption id="attachment\_229" align="alignright" width="103"\]![OXO Good Grips Plunger](assets/images/OXO-good-grips-plunger-103x300.jpg) OXO Good Grips Plunger.\[/caption\]
 
 The OXO Good Grips Hideaway Toilet Plunger and Canister make a discrete pair for tucking away in a corner of your bathroom, making it the **best toilet plunger** for good looks. The plunger fits neatly into its paired canister, which opens and closes automatically with a spring. The canister also has a built in drip tray to keep water off of your bathroom floor.
 
@@ -54,7 +54,7 @@ TheOXO Good Grips Hideaway Toilet Plunger has ratings of 4.5 stars on Bed, Bath 
 
 ##### Neiko 60166A Toilet Plunger
 
-\[caption id="attachment\_238" align="alignright" width="80"\]![Neiko Heavy Duty plunger review](images/neiko-heavy-duty-80x300.jpg) Neiko 60166A.\[/caption\]
+\[caption id="attachment\_238" align="alignright" width="80"\]![Neiko Heavy Duty plunger review](assets/images/neiko-heavy-duty-80x300.jpg) Neiko 60166A.\[/caption\]
 
 The Neiko 60166A is an excellent performer at clearing clogged drains and is a perennial favorite at Amazon, with 4.5 stars and more than 1,000 reviews. This is also the top-rated plunger on Amazon.
 
@@ -64,7 +64,7 @@ The Neiko 60166A has a tiered-shaped cup and is a powerful performer and worth 
 
 ##### G.T. Water Products, Inc. MP100-3 Master Plunger
 
-\[caption id="attachment\_237" align="alignright" width="95"\]![Master Plunger review](images/master-plunger-95x300.jpg) MP100-3 Master Plunger.\[/caption\]
+\[caption id="attachment\_237" align="alignright" width="95"\]![Master Plunger review](assets/images/master-plunger-95x300.jpg) MP100-3 Master Plunger.\[/caption\]
 
 The Master Plunger moves a lot of water and with its oversized baffle design it can create a lot of force. The large baffles do tend to trap water and debris, however, so this plunger should be cleaned after use.
 
@@ -98,6 +98,6 @@ You can also opt to spray the plunger with a disinfectant, such as Lysol.
 
 ### What won't work
 
-\[caption id="attachment\_170" align="alignright" width="157"\]![Plunger for sink and tub drains.](images/Saugglocke_fcm-157x300.jpg) Plunger for sink and tub drains.\[/caption\]
+\[caption id="attachment\_170" align="alignright" width="157"\]![Plunger for sink and tub drains.](assets/images/Saugglocke_fcm-157x300.jpg) Plunger for sink and tub drains.\[/caption\]
 
 A standard sink plunger, with a flat base and no type of flange is made to be placed against flat surfaces like a shower or sink drain. These types of plungers will not make a good seal in a toilet or generate enough force to dislodge a clog.

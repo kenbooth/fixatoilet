@@ -14,7 +14,7 @@ Tampons do not break down in water and because they are made specifically to abs
 
 Now that we know the answer to this question is, "no," you may wonder what is the proper method for disposing of a tampon.
 
-\[caption id="attachment\_399" align="alignright" width="199"\]![Can I flush tampons down the toilet? The short answer is , no.](images/IMG_4704-199x300.jpg) Dispose of used tampons in the trash. They should never be flushed down the toilet.\[/caption\]
+\[caption id="attachment\_399" align="alignright" width="199"\]![Can I flush tampons down the toilet? The short answer is , no.](assets/images/IMG_4704-199x300.jpg) Dispose of used tampons in the trash. They should never be flushed down the toilet.\[/caption\]
 
 The only real solution is to dispose of the tampon in the trash. And proper etiquette would dictate that you wrap the tampon in toilet paper or place it in a hygiene disposal box if it's available. If the original wrapper is still available, that is another popular option before placing the used tampon in the trash.
 

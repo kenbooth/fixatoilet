@@ -12,7 +12,7 @@ If your toilet tank vibrates when it fills you can usually fix the problem with 
 
 ##### Reposition the Float Ball
 
-\[caption id="attachment\_180" align="alignright" width="300"\]![Adjust float ball if toilet tank vibrates](images/float-ball-300x226.jpg) Adjusting the position of the float ball can fix a toilet tank that vibrates\[/caption\]
+\[caption id="attachment\_180" align="alignright" width="300"\]![Adjust float ball if toilet tank vibrates](assets/images/float-ball-300x226.jpg) Adjusting the position of the float ball can fix a toilet tank that vibrates\[/caption\]
 
 If the float ball is too low the toilet may not flush completely and you may need to adjust the float ball back up slightly to get more water in the tank. You can simply bend the float arm up slightly to keep the water about 1 inch below the top of the overflow pipe. Flush the toilet to a make sure it enough water is getting into the bowl.
 
@@ -20,13 +20,13 @@ If it also possible that the float ball is damaged or rubbing against the side o
 
 ##### Adjust a Water-Intake Assembly
 
-\[caption id="attachment\_36" align="alignright" width="200"\]![Adjust water intake assembly if toilet tank vibrates](images/assembly.jpg) Adjusting you water intake assembly if your toilet tank vibrates is simple.\[/caption\]
+\[caption id="attachment\_36" align="alignright" width="200"\]![Adjust water intake assembly if toilet tank vibrates](assets/images/assembly.jpg) Adjusting you water intake assembly if your toilet tank vibrates is simple.\[/caption\]
 
 Your toilet may have a water-intake assembly instead of a float ball. To adjust the water level in the bowl so it does not flow into the overflow pipe, pinch the clip attached to the thin metal rod and slide it and the cup down to lower the water level. Sliding the clip and cup up will raise the water level. Try moving the clip about an inch at a time.
 
 ### Toilet tank vibrates if ball cock is damaged
 
-\[caption id="attachment\_182" align="alignright" width="148"\]![Damaged ball cock causes toilet to vibrate](images/ballcock-148x300.jpg) Your toilet may vibrate when it fills if you have a damaged ball cock.\[/caption\]
+\[caption id="attachment\_182" align="alignright" width="148"\]![Damaged ball cock causes toilet to vibrate](assets/images/ballcock-148x300.jpg) Your toilet may vibrate when it fills if you have a damaged ball cock.\[/caption\]
 
 The ball cock opens and closes as the float ball falls and rises with the water level in the tank. This action controls the flow of water into the tank. With a plunger-style ball cock the float arm pushes the valve plunger and washer to stop the water flow. With a diaphragm-style ball cock the plunger pushes against a rubber diaphragm.
 

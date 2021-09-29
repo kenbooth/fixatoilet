@@ -5,7 +5,7 @@ categories:
 - toilet-repairs
 ---
 
-![How to fix a toilet](images/toilet-bowl-water-300x200.jpg)The first step in determining **how to fix a toilet** is diagnosing the problem. Once you've done that you can read one of our how-to guides for toilet repair.
+![How to fix a toilet](assets/images/toilet-bowl-water-300x200.jpg)The first step in determining **how to fix a toilet** is diagnosing the problem. Once you've done that you can read one of our how-to guides for toilet repair.
 
 Most toilet repairs can be handled easily without any special tools or skill. When it's advisable to call a plumber, we'll tell you so.
 

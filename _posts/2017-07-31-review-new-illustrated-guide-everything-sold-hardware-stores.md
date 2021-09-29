@@ -5,7 +5,7 @@ categories:
 - general
 ---
 
-![Review of The All New Illustrated Guide to Everything Sold in Hardware Stores](images/61yflHqWLyL-245x300.jpg)If you've ever walked into a hardware store and looked at the racks of nails and wondered which is right for your project, you could use [_The All New Illustrated Guide to Everything Sold in Hardware Stores_](http://amzn.to/2vlV7cJ) (Cool Springs Press, digital galley), by Steve Ettlinger and Phil Schmidt. This is a good book for new home buyers or those interested in tackling projects around the home who need help making sense of the myriad or projects on store shelves.
+![Review of The All New Illustrated Guide to Everything Sold in Hardware Stores](assets/images/61yflHqWLyL-245x300.jpg)If you've ever walked into a hardware store and looked at the racks of nails and wondered which is right for your project, you could use [_The All New Illustrated Guide to Everything Sold in Hardware Stores_](http://amzn.to/2vlV7cJ) (Cool Springs Press, digital galley), by Steve Ettlinger and Phil Schmidt. This is a good book for new home buyers or those interested in tackling projects around the home who need help making sense of the myriad or projects on store shelves.
 
 The book is full of color photos so you'll know exactly what you're looking for at the hardware store and each item has a description and an explanation of its common uses.  The book goes beyond simply listing items and descriptions, and has basic instructions for many projects and includes "use tips" that will let you know if you need to buy anything else, such as pipe dope for a threaded plumbing fitting.
 

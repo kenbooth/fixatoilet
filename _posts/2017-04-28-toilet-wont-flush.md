@@ -14,7 +14,7 @@ The first thing to do if your toilet won't flush is make sure the water supply i
 
 ### The handle is loose, stuck or damaged
 
-\[caption id="attachment\_55" align="alignright" width="200"\]![Check toilet handle if toilet won't flush](images/handle.jpg) A damaged or stuck handle can make it difficult to flush a toilet.\[/caption\]
+\[caption id="attachment\_55" align="alignright" width="200"\]![Check toilet handle if toilet won't flush](assets/images/handle.jpg) A damaged or stuck handle can make it difficult to flush a toilet.\[/caption\]
 
 If the tank handle is loose it will simply jiggle around and your toilet won't flush when you push it. A loose handle can be tightened by using an adjustable wrench to turn the locknut on the inside of the tank counterclockwise.
 
@@ -28,7 +28,7 @@ If your tank assembly has a lift wire you can loosen the screw attached to the g
 
 ### Ballcock is damaged
 
-\[caption id="attachment\_182" align="alignright" width="148"\]![Toilet won't flush with a damaged ball cock.](images/ballcock-148x300.jpg) The toilet won't flush if you have a damaged ballcock.\[/caption\]
+\[caption id="attachment\_182" align="alignright" width="148"\]![Toilet won't flush with a damaged ball cock.](assets/images/ballcock-148x300.jpg) The toilet won't flush if you have a damaged ballcock.\[/caption\]
 
 The ballcock opens and closes as the float ball falls and rises with the water level in the tank. This action controls the flow of water into the tank. With a plunger-style ball cock the float arm pushes the valve plunger and washer to stop the water flow. With a diaphragm ball cock the plunger pushes against a rubber diaphragm.
 

@@ -7,7 +7,7 @@ categories:
 
 The **best toilet** overall is the [St. Thomas Creations Richmond ECO](http://www.stcbath.com/cproduct.php?productID=63), according to Consumer Reports. Consumer Reports [rated](http://www.consumerreports.org/toilets/find-the-best-toilet-for-your-bathroom/) 41 toilets from a variety of **[toilet manufacturers](http://fixatoilet.com/toilet-manufacturers/)** and found that the St. Thomas did everything well.
 
-\[caption id="attachment\_320" align="alignright" width="240"\]![St. Thomas Creations Richmond ECO best toilet](images/61250286123821B_1458671543-240x300.jpg) St. Thomas Creations Richmond ECO "Best Toilet".\[/caption\]
+\[caption id="attachment\_320" align="alignright" width="240"\]![St. Thomas Creations Richmond ECO best toilet](assets/images/61250286123821B_1458671543-240x300.jpg) St. Thomas Creations Richmond ECO "Best Toilet".\[/caption\]
 
 The Richmond ECO is manufactured by [St. Thomas Creations](http://www.stcbath.com/), a California company that makes a variety of toilets, bidets and wash basins. St. Thomas Creations products have traditional, elegant designs and is committed to making water saving toilets.
 

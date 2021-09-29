@@ -12,7 +12,7 @@ Clogged toilets are easy to fix. If your toilet bowl is overflowing you can repa
 
 ##### Plunger
 
-![Korky 99-4A best toilet plunger](images/99-4A-Plunger-80x300.jpg)First, prepare the floor around the **clogged toilet** just in case water overflows or splashes out. If the bowl is overflowing or filled to the rim you will need to bail it out to make room for the plunger. Use rubber gloves, a bucket and a small container to empty about half of the water from the bowl.
+![Korky 99-4A best toilet plunger](assets/images/99-4A-Plunger-80x300.jpg)First, prepare the floor around the **clogged toilet** just in case water overflows or splashes out. If the bowl is overflowing or filled to the rim you will need to bail it out to make room for the plunger. Use rubber gloves, a bucket and a small container to empty about half of the water from the bowl.
 
 If the bowl is empty fill it to half full with water.
 
@@ -22,7 +22,7 @@ _See our plunger review to find the [best toilet plunger](http://fixatoilet.com/
 
 ##### Auger
 
-![Toilet auger for clogged toilet.](images/51bsKdvoCfL._SL1000_-300x300.jpg)If a plunger does not clear the **clogged toilet** an auger will likely do the trick. These are also referred to as plumbing snakes or toilet jacks.
+![Toilet auger for clogged toilet.](assets/images/51bsKdvoCfL._SL1000_-300x300.jpg)If a plunger does not clear the **clogged toilet** an auger will likely do the trick. These are also referred to as plumbing snakes or toilet jacks.
 
 A toilet auger has an auger bit at the end of a long, flexible shaft that can work its way through your toilet drain to remove any obstructions. Turning a handle at the other end of the auger helps to dislodge objects in the toilet.
 
