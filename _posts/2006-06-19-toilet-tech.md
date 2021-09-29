@@ -1,8 +1,8 @@
 ---
-title: "Toilet tech"
-date: "2006-06-19"
-categories: 
-  - "general"
+title: Toilet tech
+date: 2006-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 The March issue of Wired Magazine (not yet available online) takes a look at the latest toilet tech. American Standard is employing aerospace engineers to get their low-flush models working smoothly and Toto's new [Neorest 600](http://www.totousa.com/toto/productpage.asp?PID=692), which features a wireless remote, is a hit among celebrities.

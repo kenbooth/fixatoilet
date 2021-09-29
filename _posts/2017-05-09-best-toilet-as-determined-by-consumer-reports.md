@@ -1,8 +1,8 @@
 ---
-title: "Best toilet as determined by Consumer Reports"
-date: "2017-05-09"
-categories: 
-  - "general"
+title: Best toilet as determined by Consumer Reports
+date: 2017-05-09 00:00:00 Z
+categories:
+- general
 ---
 
 The **best toilet** overall is the [St. Thomas Creations Richmond ECO](http://www.stcbath.com/cproduct.php?productID=63), according to Consumer Reports. Consumer Reports [rated](http://www.consumerreports.org/toilets/find-the-best-toilet-for-your-bathroom/) 41 toilets from a variety of **[toilet manufacturers](http://fixatoilet.com/toilet-manufacturers/)** and found that the St. Thomas did everything well.

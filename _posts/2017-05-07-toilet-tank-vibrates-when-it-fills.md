@@ -1,9 +1,9 @@
 ---
-title: "Toilet tank vibrates when it fills"
-date: "2017-05-07"
-categories: 
-  - "toilet-repairs"
-coverImage: "toilet-tank-vibrates.jpg"
+title: Toilet tank vibrates when it fills
+date: 2017-05-07 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: toilet-tank-vibrates.jpg
 ---
 
 If your toilet tank vibrates when it fills you can usually fix the problem with some simple adjustments to a couple of toilet parts. If any pieces are broken, replacing them is also easy for a do-it-yourself homeowner.

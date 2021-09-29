@@ -1,8 +1,8 @@
 ---
-title: "Review: 'The All New Illustrated Guide to Everything Sold in Hardware Stores'"
-date: "2017-07-31"
-categories: 
-  - "general"
+title: 'Review: ''The All New Illustrated Guide to Everything Sold in Hardware Stores'''
+date: 2017-07-31 00:00:00 Z
+categories:
+- general
 ---
 
 ![Review of The All New Illustrated Guide to Everything Sold in Hardware Stores](images/61yflHqWLyL-245x300.jpg)If you've ever walked into a hardware store and looked at the racks of nails and wondered which is right for your project, you could use [_The All New Illustrated Guide to Everything Sold in Hardware Stores_](http://amzn.to/2vlV7cJ) (Cool Springs Press, digital galley), by Steve Ettlinger and Phil Schmidt. This is a good book for new home buyers or those interested in tackling projects around the home who need help making sense of the myriad or projects on store shelves.

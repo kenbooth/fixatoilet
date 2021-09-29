@@ -1,8 +1,8 @@
 ---
-title: "Save money with toilet repairs"
-date: "2015-06-19"
-categories: 
-  - "general"
+title: Save money with toilet repairs
+date: 2015-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 The Seattle Times recommends fixing a gravity toilet during a bathroom makeover rather than replacing it. Taking care of toilet repairs on your own can help cut costs during a remodeling job, since new toilets can run from a couple of hundred to several thousand dollars.

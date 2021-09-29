@@ -1,9 +1,9 @@
 ---
-title: "Toilet won't flush"
-date: "2017-04-28"
-categories: 
-  - "toilet-repairs"
-coverImage: "IMG_3587.jpg"
+title: Toilet won't flush
+date: 2017-04-28 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: IMG_3587.jpg
 ---
 
 If your toilet won't flush here are the steps to take to get things flowing again. All of these toilet repairs are simple and can be done by any do-it-yourself homeowner.

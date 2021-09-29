@@ -1,8 +1,8 @@
 ---
-title: "Keep your toilet in tip-top shape"
-date: "2017-10-11"
-categories: 
-  - "general"
+title: Keep your toilet in tip-top shape
+date: 2017-10-11 00:00:00 Z
+categories:
+- general
 ---
 
 It's always good to be prepared and know how to take care of your toilet. Here are links to some of our top toilet-care articles that will help you out.

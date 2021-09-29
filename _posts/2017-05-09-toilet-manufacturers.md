@@ -1,9 +1,9 @@
 ---
-title: "Toilet manufacturers 2017 for North America"
-date: "2017-05-09"
-categories: 
-  - "general"
-coverImage: "0005_zab74651.jpg"
+title: Toilet manufacturers 2017 for North America
+date: 2017-05-09 00:00:00 Z
+categories:
+- general
+coverImage: 0005_zab74651.jpg
 ---
 
 We’ve updated our list of toilet manufacturers supplying the United States and North America for 2017. Most of these toilet manufacturers will be available at major home supply stores or through local plumbing suppliers.  You may also be able to buy directly from the manufacturer or from online sources.

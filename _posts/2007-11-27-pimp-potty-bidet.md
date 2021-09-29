@@ -1,8 +1,8 @@
 ---
-title: "Pimp your potty with a bidet"
-date: "2007-11-27"
-categories: 
-  - "general"
+title: Pimp your potty with a bidet
+date: 2007-11-27 00:00:00 Z
+categories:
+- general
 ---
 
 The Los Angeles Times [takes a look](http://www.latimes.com/features/home/la-hm-bidet15nov15,1,223141.story) at bidets that can be fit onto existing toilets.

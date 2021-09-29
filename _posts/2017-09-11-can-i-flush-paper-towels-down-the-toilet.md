@@ -1,9 +1,9 @@
 ---
-title: "Can I flush paper towels down the toilet?"
-date: "2017-09-11"
-categories: 
-  - "general"
-coverImage: "IMG_4965.jpg"
+title: Can I flush paper towels down the toilet?
+date: 2017-09-11 00:00:00 Z
+categories:
+- general
+coverImage: IMG_4965.jpg
 ---
 
 The short answer to the question "can I flush paper towels" is "no." The long answer is "never flush paper towels down the toilet." While toilet paper is designed to disintegrate in water, paper towels will not break down in the same manner and they will not easily move down the sewer line, potentially creating a clog.

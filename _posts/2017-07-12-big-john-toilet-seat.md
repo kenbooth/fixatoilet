@@ -1,9 +1,9 @@
 ---
-title: "Big John provides comfort with a large toilet seat"
-date: "2017-07-12"
-categories: 
-  - "general"
-coverImage: "91rJD3vG0L._SL1500_.jpg"
+title: Big John provides comfort with a large toilet seat
+date: 2017-07-12 00:00:00 Z
+categories:
+- general
+coverImage: 91rJD3vG0L._SL1500_.jpg
 ---
 
 The [Big John Toilet Seat](http://www.bigjohntoiletseat.com/) offers super-size comfort for those who could use the extra room that comes from a **large toilet seat**. Any plus-size consumers who find standard toilet seats too low and too unsupportive for their needs should consider upgrading to an oversized toilet seat.

@@ -1,8 +1,8 @@
 ---
-title: "Out of the water closet"
-date: "2005-06-19"
-categories: 
-  - "general"
+title: Out of the water closet
+date: 2005-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 Bathroom design guru Barbara Sallick gives an interview to the L.A. Times on the [current state](http://www.latimes.com/features/printedition/magazine/la-tm-crsallick10mar06,1,1476578.story?coll=la-headlines-magazine&ctrack=1&cset=true) of water closet style.

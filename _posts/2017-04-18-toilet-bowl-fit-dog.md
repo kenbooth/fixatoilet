@@ -1,8 +1,8 @@
 ---
-title: "Toilet bowl dog dish perfect for your pet"
-date: "2017-04-18"
-categories: 
-  - "general"
+title: Toilet bowl dog dish perfect for your pet
+date: 2017-04-18 00:00:00 Z
+categories:
+- general
 ---
 
 A **toilet bowl dog dish** should put a smile on any mutt's face. These funny, novelty dog bowls can both be filled with a 2-liter bottle inverted into the back of the toilet tank.

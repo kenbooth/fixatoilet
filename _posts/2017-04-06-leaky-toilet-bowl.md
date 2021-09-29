@@ -1,9 +1,9 @@
 ---
-title: "Leaky toilet bowl: Water under the bowl"
-date: "2017-04-06"
-categories: 
-  - "toilet-repairs"
-coverImage: "fix-a-toilet-bowl.jpg"
+title: 'Leaky toilet bowl: Water under the bowl'
+date: 2017-04-06 00:00:00 Z
+categories:
+- toilet-repairs
+coverImage: fix-a-toilet-bowl.jpg
 ---
 
 A **leaky toilet bowl** is usually a more serious problem than a [leaky toilet tank](http://fixatoilet.com/leaky-toilet-water-under-tank/). But repairing a leaky toilet bowl can be handled by a capable do-it-yourselfer. The two most common reasons for a leaky toilet bowl are a faulty wax gasket or a cracked bowl.

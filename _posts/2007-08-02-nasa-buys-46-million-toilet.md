@@ -1,8 +1,8 @@
 ---
-title: "NASA buys $46 million toilet"
-date: "2007-08-02"
-categories: 
-  - "general"
+title: NASA buys $46 million toilet
+date: 2007-08-02 00:00:00 Z
+categories:
+- general
 ---
 
 NASA has signed a $46 million contract with Russia's S. P. Korolev Rocket and Space Public Corporation, for a [new toilet](http://www.nasa.gov/home/hqnews/2007/jul/HQ_C07028_station_hardware.html) on the International Space Station.

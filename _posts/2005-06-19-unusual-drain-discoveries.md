@@ -1,8 +1,8 @@
 ---
-title: "Unusual drain discoveries"
-date: "2005-06-19"
-categories: 
-  - "general"
+title: Unusual drain discoveries
+date: 2005-06-19 00:00:00 Z
+categories:
+- general
 ---
 
 Roto-Rooter released their five most unusual [drainpipe discoveries](http://rotorooter.com/pressroom/news/index.php?straction=showArticle&id=91) in 2005. Just hope you don't have these items waiting for you down the drain.

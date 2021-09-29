@@ -1,8 +1,8 @@
 ---
-title: "Bacteria free surface: Toilets in the news"
-date: "2019-03-22"
-categories: 
-  - "general"
+title: 'Bacteria free surface: Toilets in the news'
+date: 2019-03-22 00:00:00 Z
+categories:
+- general
 ---
 
 **A new antimicrobial coating** is being tested to keep toilets on the International Space Station free of bacteria. The silver- and ruthenium-based antimicrobial coating was developed by Elisabeth Grohmann of Beuth University of Applied Sciences Berlin and is credited with an 80 percent reduction in bacteria levels. [Read more.](https://www.popularmechanics.com/space/satellites/a26868775/new-coating-keeps-iss-toilet-door-bacteria-free/)

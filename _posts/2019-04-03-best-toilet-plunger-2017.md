@@ -1,9 +1,9 @@
 ---
-title: "Best toilet plunger of 2019 reviews"
-date: "2019-04-03"
-categories: 
-  - "general"
-coverImage: "plunger-graphic.jpg"
+title: Best toilet plunger of 2019 reviews
+date: 2019-04-03 00:00:00 Z
+categories:
+- general
+coverImage: plunger-graphic.jpg
 ---
 
 If you're looking for the **best toilet plunger**, we've got you covered with our toilet plunger reviews. We've done our research and looked at the best selling and highest rates toilet plungers to uncover the truth. We have toilet plunger reviews and top picks for low-flow toilets, traditional toilets and discrete looks.
