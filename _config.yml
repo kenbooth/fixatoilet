@@ -43,7 +43,7 @@ plugins:
 url: https://mydomain.com
 baseurl: ''
 description: Easy Tiolet Repair
-permalink: "/:title"
+permalink: "/:title/"
 logo: "/assets/images/booth-labs-icon-50.gif"
 paginate: 5
 paginate_path: blog/page:num
